@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Welcome to APAC Blocks
 
 The APAC region is home to many interesting people and projects in the blockchain field, but is often overlooked on the international stage.
