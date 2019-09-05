@@ -1,10 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to APAC Blocks
 
-You can use the [editor on GitHub](https://github.com/apacblocks/apacblocks.org/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The APAC region is home to many interesting people and projects in the blockchain field, but is often overlooked on the international stage.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The idea behind APAC Blocks is to:
+- Highlight competent people and projects solving real problems,
+- Raise the general standards of blockchain-literacy,
+- Enable peer-discovery of high signal to noise ratio people.
 
-### Markdown
+## Values
+
+The independence of the organisation
+
+### Membership Protocol
+
+The first 88 memberships are free. Membership is by invitation only. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
