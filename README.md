@@ -26,4 +26,4 @@ Q: Can I edit this page?
 A: Yes. Please see the [contribution protocol](http://socialarchitecture.science/c4/) and send a pull request.
 
 Q: Can I go to the launch party?   
-A: Yes. Please register [here](www.eventbrite.com/e/apac-blockchain-association-launch-party-tickets-70731219983). Please contact @gareth0546 on Telegram if you would like the code for a free ticket.
+A: Yes. Please register [here](https://www.eventbrite.com/e/apac-blockchain-association-launch-party-tickets-70731219983). Please contact @gareth0546 on Telegram if you would like the code for a free ticket.
