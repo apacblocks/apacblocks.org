@@ -15,4 +15,12 @@ The first 88 memberships are free. Any member can invite a maximum of two new me
 
 ### Token
 
-The organisation shall have an associated shitcoin which will be initially distributed at the Genesis event (Launch Party). The protocol rules for this token (such as inflation rate etc) are decided programmatically by on-chain voting.
+The organisation shall have an associated shitcoin which will be initially distributed at the Genesis event (Launch Party). Protocol rules for this token (such as inflation rate etc) are decided programmatically by on-chain voting.
+
+### FAQ
+
+Q: Is this a DAO?
+A: Probably. Time will tell.
+
+Q: Can I edit this page?
+A: Yes. Please see the [contribution protocol](http://socialarchitecture.science/c4/) and send a pull request.
