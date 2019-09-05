@@ -9,7 +9,7 @@ The idea behind APAC Blocks is to:
 
 ### Genesis party
 The genesis party will be held on Friday the 6th of September in Hong Kong.
-Please register [here](https://www.eventbrite.com/e/apac-blockchain-association-launch-party-tickets-70731219983) if you wish to attend, as numbers are limited. The code for a free ticket is the first 17 characters of the Bitcoin genesis headline.
+Please register [here](https://www.eventbrite.com/e/apac-blockchain-association-launch-party-tickets-70731219983) if you wish to attend, as numbers are limited. The code for a free ticket is the first 17 letters of the Bitcoin genesis headline.
 
 ### Membership Protocol and Fees
 
