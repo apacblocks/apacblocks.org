@@ -7,6 +7,10 @@ The idea behind APAC Blocks is to:
 - Raise the general standards of blockchain-literacy,
 - Enable peer-discovery of high signal to noise ratio people.
 
+### Genesis party
+The genesis party will be held on Friday the 6th of September in Hong Kong.
+Please register [here](https://www.eventbrite.com/e/apac-blockchain-association-launch-party-tickets-70731219983) if you wish to attend, as numbers are limited. The code for a free ticket is the first 17 characters of the Bitcoin genesis headline.
+
 ### Membership Protocol and Fees
 
 New members can only join the organisation while in physical attendance at an APAC Blocks event.
@@ -15,7 +19,7 @@ The first 88 memberships are free. Any member can invite a maximum of two new me
 
 ### Token
 
-The organisation shall have an associated shitcoin which will be initially distributed at the Genesis event ([Launch Party](www.eventbrite.com/e/apac-blockchain-association-launch-party-tickets-70731219983)). Protocol rules for this token (such as inflation rate etc) are decided programmatically by on-chain voting.
+The organisation shall have an associated shitcoin which will be initially distributed at the Genesis event ([Launch Party](https://www.eventbrite.com/e/apac-blockchain-association-launch-party-tickets-70731219983)). Protocol rules for this token (such as inflation rate etc) are decided programmatically by on-chain voting.
 
 ### FAQ
 
