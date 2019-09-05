@@ -9,11 +9,12 @@ The idea behind APAC Blocks is to:
 
 ## Values
 
-The independence of the organisation
+
 
 ### Membership Protocol
 
-The first 88 memberships are free. Membership is by invitation only. 
+The first 88 memberships are free. Any member can invite a maximum of two new members - membership is by invitation only. When the 88th person has joined as a member, an on-chain state change will be triggered giving all members the ability the vote on what (if any) membership fee should be charged.
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
