@@ -28,3 +28,15 @@ A: Probably.
 
 Q: Can I edit this page?   
 A: Yes. Please see the [contribution protocol](http://socialarchitecture.science/c4/) and send a pull request.
+
+Q: Will you list this shitcoin on an exchange?   
+A: Exchanges can do whatever they want. 
+
+Q: Do I have to be a HK resident to participate?   
+A: No
+
+Q: Will you have physical events outside HK?   
+A: Probably. Any member can host an event.   
+
+Q: When Moon?   
+A: https://pastebin.com/raw/Gc2Lasej
