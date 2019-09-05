@@ -15,7 +15,7 @@ The first 88 memberships are free. Any member can invite a maximum of two new me
 
 ### Token
 
-The organisation shall have an associated shitcoin which will be initially distributed at the Genesis event (Launch Party). Protocol rules for this token (such as inflation rate etc) are decided programmatically by on-chain voting.
+The organisation shall have an associated shitcoin which will be initially distributed at the Genesis event ([Launch Party](www.eventbrite.com/e/apac-blockchain-association-launch-party-tickets-70731219983)). Protocol rules for this token (such as inflation rate etc) are decided programmatically by on-chain voting.
 
 ### FAQ
 
@@ -24,3 +24,6 @@ A: Probably. Time will tell.
 
 Q: Can I edit this page?   
 A: Yes. Please see the [contribution protocol](http://socialarchitecture.science/c4/) and send a pull request.
+
+Q: Can I go to the launch party?
+A: Yes. Please register [here](www.eventbrite.com/e/apac-blockchain-association-launch-party-tickets-70731219983). Please contact @gareth0546 on Telegram if you would like the code for a free ticket.
