@@ -19,8 +19,8 @@ The organisation shall have an associated shitcoin which will be initially distr
 
 ### FAQ
 
-Q: Is this a DAO?
+Q: Is this a DAO?   
 A: Probably. Time will tell.
 
-Q: Can I edit this page?
+Q: Can I edit this page?   
 A: Yes. Please see the [contribution protocol](http://socialarchitecture.science/c4/) and send a pull request.
