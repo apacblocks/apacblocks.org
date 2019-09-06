@@ -21,7 +21,7 @@ New members can only join the organisation while in physical attendance at an AP
 
 The first 88 memberships are free. Any member can invite a maximum of two new members - membership is by invitation only. When the 88th person has joined as a member, an on-chain state change will be triggered giving all members the ability the vote on what (if any) membership fee should be charged. 
 
-To join, please go to [https://members.apacblocks.org]
+To join, please go to [https://members.apacblocks.org](https://members.apacblocks.org)
 
 ### Token
 
