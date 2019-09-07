@@ -11,17 +11,11 @@ The idea behind APAC Blocks is to:
 - Raise the general standards of blockchain-literacy,
 - Enable peer-discovery of high signal to noise ratio people.
 
-### Genesis party
-The genesis party will be held on Friday the 6th of September in Hong Kong.
-Please register [here](https://www.eventbrite.com/e/apac-blockchain-association-launch-party-tickets-70731219983) if you wish to attend, as numbers are limited. The code for a free ticket is the first 17 letters of the Bitcoin genesis headline.
-
 ### Membership Protocol and Fees
 
-New members can only join the organisation while in physical attendance at an APAC Blocks event.
+New members can only join the organisation while in physical attendance at an APAC Blocks event. Join the telegram group (@apacblocks) to be made aware of upcoming events.
 
-The first 88 memberships are free. Any member can invite a maximum of two new members - membership is by invitation only. When the 88th person has joined as a member, an on-chain state change will be triggered giving all members the ability the vote on what (if any) membership fee should be charged. 
-
-To join, please go to [https://members.apacblocks.org](https://members.apacblocks.org)
+To join, please go to [https://members.apacblocks.org](https://members.apacblocks.org) while physically at an event.
 
 ### Token
 
