@@ -21,7 +21,7 @@
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-          <h4><a href="https://members.apacblocks.org/userlist">Members</a>&nbsp;|&nbsp;<a href="https://members.apacblocks.org">Become a member</a>&nbsp;|&nbsp;<a href="https://t.me/apacblocks">Telegram Group</a><h4>
+          <h6><a href="https://members.apacblocks.org/userlist">Members</a>&nbsp;|&nbsp;<a href="https://members.apacblocks.org">Become a member</a>&nbsp;|&nbsp;<a href="https://t.me/apacblocks">Telegram Group</a></h6>
 
           {% if site.show_downloads %}
             <section id="downloads">
@@ -31,10 +31,10 @@
           {% endif %}
           {% if site.show_language %}
             <section id="downloads">
-              <a href="/">EN</a>
-              <a href="cnt">繁</a>
-              <a href="cns">简</a>
-              <a href="jp">日本語</a>
+              <h6><a href="/">EN</a></h6>
+              <h6><a href="cnt">繁</a></h6>
+              <h6><a href="cns">简</a></h6>
+              <h6><a href="jp">日本語</a></h6>
             </section>
           {% endif %}
         </header>
