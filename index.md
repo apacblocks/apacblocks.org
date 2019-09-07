@@ -19,7 +19,7 @@ Any 6 members can create an official event. To join as a new member, please go t
 
 ### Token
 
-The organisation shall have an associated shitcoin which will be initially distributed at the Genesis event ([Launch Party](https://www.eventbrite.com/e/apac-blockchain-association-launch-party-tickets-70731219983)). Protocol rules for this token (such as inflation rate etc) are decided programmatically by on-chain voting.
+The organisation shall have an associated shitcoin. Tokens are provided to new members upon joining. Protocol rules for this token (such as inflation rate etc) are decided programmatically by on-chain voting.
 
 ### FAQ
 
