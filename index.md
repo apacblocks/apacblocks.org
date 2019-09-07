@@ -13,9 +13,9 @@ The idea behind APAC Blocks is to:
 
 ### Membership Protocol and Fees
 
-New members can only join the organisation while in physical attendance at an APAC Blocks event. Join the telegram group (@apacblocks) to be made aware of upcoming events.
+All members can invite **two** new members. New members can only join the organisation while in **physical attendance** at an APAC Blocks event. Join the telegram group (@apacblocks) to be made aware of upcoming events.
 
-To join, please go to [https://members.apacblocks.org](https://members.apacblocks.org) while physically at an event.
+Any 6 members can create an official event. To join as a new member, please go to [https://members.apacblocks.org](https://members.apacblocks.org) while physically at an event.
 
 ### Token
 
